@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iiq4KeDJ52qgcRgDTPii/Kl4GgxBMxktNHRGPtWjzZ5j44FQRxULi77Ue5dwDel3/9BoGop1E0IfDeR5BGhBZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycod\\Downloads\\Windows_Sim-master\\Windows_Sim-master\\Windows_Sim\\Windows_Sim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycod\\.nuget\\packages\\hardware.info\\100.0.1.1\\hardware.info.100.0.1.1.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\microsoft.web.webview2\\1.0.2277.86\\microsoft.web.webview2.1.0.2277.86.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\vlc.dotnet.core\\3.1.0\\vlc.dotnet.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\vlc.dotnet.core.interops\\3.1.0\\vlc.dotnet.core.interops.3.1.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\vlc.dotnet.forms\\3.1.0\\vlc.dotnet.forms.3.1.0.nupkg.sha512",
+    "C:\\Users\\mycod\\.nuget\\packages\\winforms.datavisualization\\1.9.1\\winforms.datavisualization.1.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
